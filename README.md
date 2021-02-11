@@ -1,8 +1,10 @@
-# portfolio
+# Portfolio
 A Responsive Portfolio Page using CSS Grid and Flex 
+
 
 # Project Requirements:
 A portfolio website that meets the following:
+
 
 # Content:
 The job title of the person.
@@ -32,6 +34,9 @@ A highlighted section with a photo and job title info.
 An index links beside their content.
 A footer.
 
+
+# Mockup:
+![alt text](https://github.com/wpmeal/portfolio/blob/main/Mockup.jpg?raw=true)
 
 Developed by Omar Mahrous. Copyright © 2021
 
